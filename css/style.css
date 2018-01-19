@@ -31,7 +31,7 @@ h1, h2 {
 
 h1 {
   font-size: 3.5em;
-  margin-bottom: 0;
+  margin-bottom: .5em;
 }
 
 h2 {
@@ -42,7 +42,7 @@ h2 {
 h3 {
   font-family: 'Gabriela', serif;
   font-size: 1.5em;
-  margin-top: .5em;
+  margin-top: 0;
 }
 
 img {
